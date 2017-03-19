@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cricket Counter</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="role1">Batting</string>
+    <string name="role2">Bowling</string>
+    <string name="zero">0</string>
+    <string name="zero2">00</string>
+    <string name="dot">.</string>
+    <string name="slash">/</string>
+    <string name="dash">-</string>
+    <string name="term1">runs</string>
+    <string name="term2">wickets</string>
+    <string name="term3">overs</string>
+    <string name="score1">One</string>
+    <string name="score2">Two</string>
+    <string name="score3">Three</string>
+    <string name="score4">Four</string>
+    <string name="score5">Six</string>
+    <string name="score6">Extras</string>
+    <string name="out">Out</string>
+    <string name="reset">Reset</string>
+    <string name="swap">Swap Strike</string>
+    <string name="waste">No Runs</string>
+</resources>
